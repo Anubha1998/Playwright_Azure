@@ -12,7 +12,7 @@ const playwrightClientVersion = cp.execSync('npx playwright --version').toString
       'build': 'Playwright Single Build',
       'name': 'Playwright Sample Test',
       'user': "anubhas",
-      'accessKey': "d0xU8AHQKbdFpzdeIl6iDqpPrzJtKtmTWmzKZJxRFhs4DwFtVo",
+      'accessKey': "s0tLWr9RpxlsK4hqFdCoYklSTqEe4yYmsw447rDfQrSmU8lwcT",
       'network': true,
       'video': true,
       'console': true,
